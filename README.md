@@ -1,6 +1,7 @@
 # Devops Tools Outline
 
 * automation
+  * [docker](./automation/docker/)
   * ansible
   * spec files
 * monitoring/trending
