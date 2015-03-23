@@ -11,3 +11,7 @@
 Using local [base image](./centos-base/) as an example
 
     docker build -t centos-base -q .
+
+See [Dockerfile reference](https://docs.docker.com/reference/builder/#maintainer) for details.
+
+
